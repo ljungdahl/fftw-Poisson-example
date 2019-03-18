@@ -1,3 +1,6 @@
+# NOTE THAT THIS IS WIP CURRENTLY (2019-03-18)
+(but you might still understand some things by looking at the source)
+
 # fftw-Poisson-example
 An example of a solution to the 3D Poisson's equation using in-place, real-to-complex, discrete Fourier transform with the FFTW library (fftw.org).
 
